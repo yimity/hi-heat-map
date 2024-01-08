@@ -1,11 +1,11 @@
 <?php
 /**
- * @package Hi_Heat_Map
+ * @package Hi-Heatmap
  * @version 1.0.0
  */
 /*
 Plugin Name: Hi Heat Map
-Plugin URI: http://wordpress.org/plugins/hi-heat-map/
+Plugin URI: http://wordpress.org/plugins/hi-heatmap/
 Description: This is a plugin, for showing the post and page heat map like Github Contribution Graph.
 Author: 一米
 Version: 1.0.0

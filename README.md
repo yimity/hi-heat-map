@@ -6,6 +6,10 @@ Heatmap Plugin for WordPress.
     2. optional, modify the css file, fit with your theme.
     3. optional, make sure the theme you using with the <?php wp_footer() ?> in footer.php or other php file. 
 
+## LICENSE
+    GPL-3.0
+    https://github.com/yimity/hi-heatmap/blob/main/LICENSE
+
 ## Thanks
     1. https://biji.io/
     2. https://picocss.com/docs/tooltips.html
